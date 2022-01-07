@@ -1,0 +1,4 @@
+address: singleplayer
+dynamicversion: true
+version: v0.1.1-Stable
+token: false
