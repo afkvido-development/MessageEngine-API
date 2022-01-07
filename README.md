@@ -1,2 +1,1 @@
-# MessageEngine-API
-API for messageEngine servers
+# API for messageEngine servers
