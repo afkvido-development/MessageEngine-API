@@ -1,6 +1,13 @@
 # MessageEngine API
 The official API for MessageEngine servers and clients
 
+## Contact Us: [Our discord server](https://disboard.org/server/893975758677086238)
+
+## Download MessageEngine Client
+[Reccomended] Public Test Beta: https://afkvido-development.github.io/MessageEngine-PTB/
+
+Stable: https://afkvido-development.github.io/MessageEngine/
+
 ## This Repo
 
 ### [Announcements](https://github.com/afkvido-development/MessageEngine-API/discussions/categories/announcements) and [Outages](https://github.com/afkvido-development/MessageEngine-API/discussions/categories/outage)
