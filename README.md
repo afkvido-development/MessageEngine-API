@@ -78,7 +78,7 @@ _____
 	<img alt="Stars" src="https://img.shields.io/github/stars/afkvido-development/MessageEngine-API?color=yellow&logo=GitHub&logoColor=white&style=for-the-badge">
 </a>⠀
   
-<a href = "https://github.com/afkvido-development/MessageEngine-API/find/masterr">	
+<a href = "https://github.com/afkvido-development/MessageEngine-API/find/master">	
 	<img alt="Data" src="https://img.shields.io/github/repo-size/afkvido-development/MessageEngine-API?color=lightblue&label=Data&logo=circle&logoColor=white&style=for-the-badge">
 </a>⠀
   
