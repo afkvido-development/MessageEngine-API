@@ -6,7 +6,7 @@
 <a href = "https://github.com/afkvido-development/MessageEngine-API/issues">
   <img alt="issues" src="https://img.shields.io/github/issues/afkvido-development/MessageEngine-API?color=success&label=issues&logo=GitHub%20Actions&logoColor=white&style=for-the-badge">
 </a>⠀
-  
+ 
   
   
 <a href = "https://github.com/afkvido-development/MessageEngine-API">
@@ -16,7 +16,11 @@
 <a href = "https://github.com/afkvido-development/MessageEngine-API/pulse">
 	<img alt="Commits" src = "https://img.shields.io/github/commit-activity/w/afkvido-development/MessageEngine-API?color=brgreen&label=Commits&logo=Git&logoColor=white&style=for-the-badge">
 </a>⠀  
- 
+	
+<a href = "https://github.com/afkvido-development/MessageEngine-API/actions">	
+	<img alt="Actions" src="https://img.shields.io/github/workflow/status/afkvido-development/MessageEngine-API/CI?label=Checks&logo=GitHub%20Actions&logoColor=white&style=for-the-badge">
+</a>⠀	
+	
 </h5>  
 
 <p></p>
