@@ -74,11 +74,11 @@ _____
 	<img alt="License" src="https://img.shields.io/badge/License-MPL--2.0-important?logo=mozilla&logoColor=white&style=for-the-badge">
 </a>⠀
   
-  <a href = "https://github.com/afkvido-development/MessageEngine-API/stargazers">	
+<a href = "https://github.com/afkvido-development/MessageEngine-API/stargazers">	
 	<img alt="Stars" src="https://img.shields.io/github/stars/afkvido-development/MessageEngine-API?color=yellow&logo=GitHub&logoColor=white&style=for-the-badge">
 </a>⠀
   
-<a href = "https://github.com/afkvido-development/MessageEngine-API/tree/master">	
+<a href = "https://github.com/afkvido-development/MessageEngine-API/find/masterr">	
 	<img alt="Data" src="https://img.shields.io/github/repo-size/afkvido-development/MessageEngine-API?color=lightblue&label=Data&logo=circle&logoColor=white&style=for-the-badge">
 </a>⠀
   
