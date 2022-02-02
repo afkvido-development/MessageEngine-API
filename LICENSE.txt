@@ -1,3 +1,6 @@
+[Statistics provided by Shields.io]
+
+
 Mozilla Public License Version 2.0
 ==================================
 
