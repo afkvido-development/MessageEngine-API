@@ -70,7 +70,7 @@ _____
 
   
   
-<a href = "https://github.com/afkvido-development/MessageEngine-API/blob/Alpha/LICENSE.txt">	
+<a href = "https://github.com/afkvido-development/MessageEngine-API/blob/master/LICENSE.txt">	
 	<img alt="License" src="https://img.shields.io/badge/License-MPL--2.0-important?logo=mozilla&logoColor=white&style=for-the-badge">
 </a>⠀
   
