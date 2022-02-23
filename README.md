@@ -25,7 +25,7 @@
 
 <p></p>
 
-## [Download MessageEngine Client](https://afkvido-development.github.io/MessageEngine-PTB/)
+## [Download MessageEngine Client](https://MessageEngine.GitHub.io)
 _____
 ## This Repo
 
